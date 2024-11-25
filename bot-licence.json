@@ -7,8 +7,8 @@
       "user_info": "Tuser Ahammed, Owner"
     },
     {
-      "activated_device_uuid": "",
-      "status": "EXPIRED",
+      "activated_device_uuid": "03000200-0400-0500-0006-000700080009",
+      "status": "VALID",
       "expiry_date": "2023-06-15 12:00:00",
       "user_info": "Jane Smith, janesmith@example.com"
     },
