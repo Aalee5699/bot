@@ -19,7 +19,7 @@
       "user_info": "Mike Johnson, mike.johnson@example.com"
     },
     {
-      "activated_device_uuid": "",
+      "activated_device_uuid": "79127700-7735-11EF-9362-13B27EC2FA5E",
       "status": "VALID",
       "expiry_date": "2025-06-15 12:00:00",
       "user_info": "Mike Johnson, mike.johnson@example.com"
